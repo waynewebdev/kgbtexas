@@ -1,0 +1,405 @@
+# Copyright (C) 2018 _s
+# This file is distributed under the same license as the _s package.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:17
+msgid "Sorry, this page doesn't exist."
+msgstr ""
+
+#: 404.php:22
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr ""
+
+#: comments.php:24
+msgid "Comment section"
+msgstr ""
+
+#. translators: the number of comments
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:45, comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:48, comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:49, comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:28
+msgid "Close Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Sidebar 1"
+msgstr ""
+
+#. translators: the sidebar name
+#: functions.php:118
+msgid "Widget area for %s"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:51
+msgid "Open Menu"
+msgstr ""
+
+#. translators: the term(s) searched
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgid "To search this site, enter a search term"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "_s"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:13
+msgid "Submit"
+msgstr ""
+
+#: template-acf.php:3
+msgid "Page with Content Blocks"
+msgstr ""
+
+#: template-scaffolding.php:3
+msgid "Scaffolding"
+msgstr ""
+
+#: template-sidebar-right.php:3
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/acf.php:243
+msgid "Video"
+msgstr ""
+
+#: inc/acf.php:264
+msgid "expired"
+msgstr ""
+
+#: inc/extras.php:102, inc/extras.php:167
+msgid "Width must be an integer"
+msgstr ""
+
+#: inc/extras.php:106, inc/extras.php:171
+msgid "Height must be an integer"
+msgstr ""
+
+#: inc/extras.php:110
+msgid "Please provide a valid hex color value for background_color"
+msgstr ""
+
+#: inc/extras.php:114
+msgid "Please provide a valid hex color value for text_color"
+msgstr ""
+
+#: inc/extras.php:121, inc/extras.php:192
+msgid "WebDevStudios Placeholder Image"
+msgstr ""
+
+#: inc/hooks.php:90, inc/template-tags.php:438
+msgid "Read More"
+msgstr ""
+
+#: inc/hooks.php:101
+msgid "Read more..."
+msgstr ""
+
+#: inc/scaffolding.php:42
+msgid "Details"
+msgstr ""
+
+#: inc/scaffolding.php:51
+msgid "Description"
+msgstr ""
+
+#: inc/scaffolding.php:56
+msgid "Parameters"
+msgstr ""
+
+#: inc/scaffolding.php:63
+msgid "Arguments"
+msgstr ""
+
+#: inc/scaffolding.php:74
+msgid "Usage"
+msgstr ""
+
+#: inc/scaffolding.php:79
+msgid "HTML Output"
+msgstr ""
+
+#: inc/scripts.php:23
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts.php:24
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: the date the post was published
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: the post author
+#: inc/template-tags.php:36
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53, inc/template-tags.php:60
+msgid ", "
+msgstr ""
+
+#. translators: the post category
+#: inc/template-tags.php:56
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: the post tags
+#: inc/template-tags.php:63
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:76, template-parts/content-page.php:34
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#. translators: the social network name
+#: inc/template-tags.php:389
+msgid "Link to %s"
+msgstr ""
+
+#: inc/template-tags.php:471
+msgid "More Information"
+msgstr ""
+
+#: inc/template-tags.php:473, inc/template-tags.php:474
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: the edit post url
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22, template-parts/content.php:41
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/sharing-icons.php:11
+msgid "Share This"
+msgstr ""
+
+#: template-parts/sharing-icons.php:19, template-parts/sharing-icons.php:22
+msgid "Share on Twitter"
+msgstr ""
+
+#: template-parts/sharing-icons.php:31, template-parts/sharing-icons.php:34
+msgid "Share on Facebook"
+msgstr ""
+
+#: template-parts/sharing-icons.php:43, template-parts/sharing-icons.php:46
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/customizer/panels.php:21
+msgid "Site Options"
+msgstr ""
+
+#: inc/customizer/panels.php:22
+msgid "Other theme options."
+msgstr ""
+
+#: inc/customizer/sections.php:19
+msgid "Additional Scripts"
+msgstr ""
+
+#: inc/customizer/sections.php:29
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/sections.php:30
+msgid "Links here power the display_social_network_links() template tag."
+msgstr ""
+
+#: inc/customizer/sections.php:40
+msgid "Header Customizations"
+msgstr ""
+
+#: inc/customizer/sections.php:50
+msgid "Footer Customizations"
+msgstr ""
+
+#: inc/customizer/settings.php:28
+msgid "Header Scripts"
+msgstr ""
+
+#: inc/customizer/settings.php:29
+msgid "Additional scripts to add to the header. Basic HTML tags are allowed."
+msgstr ""
+
+#: inc/customizer/settings.php:48
+msgid "Footer Scripts"
+msgstr ""
+
+#: inc/customizer/settings.php:49
+msgid "Additional scripts to add to the footer. Basic HTML tags are allowed."
+msgstr ""
+
+#. translators: the social network name.
+#: inc/customizer/settings.php:83
+msgid "%s URL"
+msgstr ""
+
+#: inc/customizer/settings.php:113
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/settings.php:114
+msgid "The copyright text will be displayed in the footer. Basic HTML tags allowed."
+msgstr ""
+
+#: inc/customizer/settings.php:143
+msgid "Header Button"
+msgstr ""
+
+#: inc/customizer/settings.php:144
+msgid "Display a custom button in the header."
+msgstr ""
+
+#: inc/customizer/settings.php:148
+msgid "No button"
+msgstr ""
+
+#: inc/customizer/settings.php:149
+msgid "Trigger a search field"
+msgstr ""
+
+#: inc/customizer/settings.php:150
+msgid "Link to a custom URL"
+msgstr ""
+
+#: inc/customizer/settings.php:168
+msgid "Header Button URL"
+msgstr ""
+
+#: inc/customizer/settings.php:169
+msgid "Enter the URL or email address to be used by the button in the header."
+msgstr ""
+
+#: inc/customizer/settings.php:189
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/customizer/settings.php:190
+msgid "Enter the text to be displayed in the button in the header."
+msgstr ""
+
+#: template-parts/scaffolding/scaffolding-blank.php:11
+msgid "X"
+msgstr ""
+
+#: template-parts/scaffolding/scaffolding-buttons.php:12
+msgid "Buttons"
+msgstr ""
+
+#: template-parts/scaffolding/scaffolding-forms.php:12
+msgid "Forms"
+msgstr ""
+
+#: template-parts/scaffolding/scaffolding-globals.php:12
+msgid "Globals"
+msgstr ""
+
+#: template-parts/scaffolding/scaffolding-icons.php:12
+msgid "Icons"
+msgstr ""
+
+#: template-parts/scaffolding/scaffolding-typography.php:12
+msgid "Typography"
+msgstr ""
